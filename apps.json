@@ -1,0 +1,39 @@
+[
+  {
+    "name": "Open private hub (unlock)",
+    "icon": "🔐",
+    "hub": true,
+    "description": "All your private apps and files in Night Library. Unlocks with your passphrase.",
+    "url": "https://ducky19301.github.io/night-library/"
+  },
+  {
+    "name": "Historic",
+    "icon": "🏛️",
+    "description": "Lesser-known histories: interactive stories with a narrator (Cospaia, Seneca, Steiner and more).",
+    "url": "https://ducky19301.github.io/historic-stories/"
+  },
+  {
+    "name": "Trusted Tarot",
+    "icon": "🔐",
+    "description": "Tarot app with accounts. Sign in with your own Trusted Tarot login.",
+    "url": "https://trusted-tarot.ducky19301.workers.dev/"
+  },
+  {
+    "name": "TaroBot",
+    "icon": "🤖",
+    "description": "TaroBot reading app. Sign in with its own login. If a \"Visit Site\" notice appears first, tap it.",
+    "url": "https://smudge-ice-unhidden.ngrok-free.dev/"
+  },
+  {
+    "name": "Name It",
+    "icon": "🗣️",
+    "description": "Name It — built, tested and now live. Open on phone or laptop.",
+    "url": "https://name-it.ducky19301.workers.dev/"
+  },
+  {
+    "name": "Candle & Moon",
+    "icon": "🕯️",
+    "description": "Candle-magick app: spells, tarot & oracle, horoscope, intentions, Silva guided sit, 5-method manifestation rotation, dream constellation & deep dive. Opens with its own passcode.",
+    "url": "https://candle-and-moon.ducky19301.workers.dev/"
+  }
+]
